@@ -2,8 +2,8 @@
 
 
 #### live deployment:
-[testnet](https://ln-wallet-testnet.coinbin.org) <br>
-[signet](https://ln-wallet-signet.coinbin.org) <br>
+[testnet](https://ln.testnet.coinbin.org) <br>
+[signet](https://ln.signet.coinbin.org) <br>
 
 
 ### setup
