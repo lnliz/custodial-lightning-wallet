@@ -3,6 +3,7 @@
 
 #### live deployment:
 [testnet](https://ln.testnet.coinbin.org) <br>
+[testnet4](https://ln.testnet4.coinbin.org) <br>
 [signet](https://ln.signet.coinbin.org) <br>
 
 
